@@ -1,4 +1,4 @@
 pmpdocs
 =======
 
-Documentation for the PMP API endpoings.
+PMP Dev Documentation: https://github.com/nprdm/pmpdocs/wiki
